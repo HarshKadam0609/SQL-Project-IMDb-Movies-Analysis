@@ -11,5 +11,5 @@ production houses, and correlations with other factors like genre and duration.
 on average ratings and performance metrics.
 - Generated concise and actionable business insights which can be helpful in
 producing potential high-grossing, multilingual movies.
-- Ensured query optimisation and syntactical excellence in SQL coding, resulting in
+- Ensured query optimization and syntactical excellence in SQL coding, resulting in
 accurate and efficient queries that could be easily understood by others.
